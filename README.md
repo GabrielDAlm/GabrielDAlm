@@ -1,6 +1,5 @@
 ### Olá, sou Gabriel 👋
 - 🔭 Formado na ETEC em desenvolvimento de sistemas;
-- 📖 Ensino Médio completo.
 
 <div>
   <a href="https://github.com/GabrielDAlm"> 
