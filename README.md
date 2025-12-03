@@ -1,5 +1,7 @@
 ### Olá, sou Gabriel 👋
 - 🔭 Formado na ETEC em desenvolvimento de sistemas;
+- 📕 Cursando ADS na FATEC de SP;
+- 💙 Proano.
 
 <div>
   <a href="https://github.com/GabrielDAlm"> 
