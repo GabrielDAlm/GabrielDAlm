@@ -1,15 +1,13 @@
 <h1 align="center">Olá, sou Gabriel 👋</h1>
 
-<h3 align="center">🌐 Redes</h3>
+### <h3 align="center">🌐 Redes</h3>
 
 <div align="center">
   <a href = "mailto:gabrieldamascenoalmeida341@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/gabriel-damasceno-701b2b28b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-
 ###
-
 
 <h3 align="center">Sobre mim</h3>
 
@@ -22,9 +20,7 @@
   <img src="https://streak-stats.demolab.com?user=GabrielDAlm&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
-    
 ###
-
 
 <div align="center">
 
