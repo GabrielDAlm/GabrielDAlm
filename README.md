@@ -1,6 +1,6 @@
 <h1 align="center">Olá, sou Gabriel 👋</h1>
 
-<h3>🌐 Redes</h3>
+<h3 align="center">🌐 Redes</h3>
 
 <div align="center">
   <a href = "mailto:gabrieldamascenoalmeida341@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
@@ -9,7 +9,7 @@
 
 ###
 
-<h3>Sobre mim</h3>
+<h3 align="center">Sobre mim</h3>
 
 - 🔭 Formado na ETEC em desenvolvimento de sistemas;
 - 📕 Cursando ADS na FATEC de SP;
