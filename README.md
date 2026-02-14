@@ -7,10 +7,9 @@
 - 💙 Ex Proano;
 - 💻 Apaixonado ppor tecnologia.
 
-<div>
-  <a href="https://github.com/GabrielDAlm"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielDAlm&show_icons=true&theme=gruvbox"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDAlm&layout=compact&theme=gruvbox"/>    
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GabrielDAlm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=GabrielDAlm&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
     
 ###
@@ -38,7 +37,7 @@
 <div style="display: inline_block">
 <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="center" alt="React Native" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />
+<img align="center" alt="React Native" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
 <img align="center" alt="Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 </div>
 
