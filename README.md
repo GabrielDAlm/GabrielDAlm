@@ -1,5 +1,11 @@
 <h1 align="center">Olá, sou Gabriel 👋</h1>
 
+
+<div>
+  <a href = "mailto:gabrieldamascenoalmeida341@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/gabriel-damasceno-701b2b28b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
 ###
 
 - 🔭 Formado na ETEC em desenvolvimento de sistemas;
@@ -7,10 +13,7 @@
 - 💙 Ex Proano;
 - 💻 Apaixonado ppor tecnologia.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GabrielDAlm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=GabrielDAlm&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDAlm&show_icons=true&theme=radical)
     
 ###
 
@@ -53,11 +56,4 @@
 <img align="center" alt="VsCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="center" alt="VisualStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="center" alt="Intellij" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-</div>
-
-###
-
-<div>
-  <a href = "mailto:gabrieldamascenoalmeida341@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/gabriel-damasceno-701b2b28b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
