@@ -17,7 +17,6 @@
 - 🔭 Formado na ETEC em desenvolvimento de sistemas;
 - 📕 Cursando ADS na FATEC de SP;
 - 💙 Ex Proano;
-- 💻 Apaixonado ppor tecnologia.
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GabrielDAlm&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
